@@ -60,6 +60,11 @@ main p {
   font-size: 1.5em;
 }
 
+hr {
+  width: 70%;
+  height: auto;
+}
+
 a {
   text-decoration: none;
 }
